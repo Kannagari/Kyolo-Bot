@@ -9,7 +9,7 @@ import io
 
 
 bot = commands.Bot(command_prefix="!")
-hugMethods = ["*hugs* "]
+hugMethods = ["*hugs* %s"]
 WRand = ["https://www.youtube.com/watch?v=D1sZ_vwqwcE" , "https://www.youtube.com/watch?v=hgKDu5pp_fU" , "https://www.youtube.com/watch?v=HAIDqt2aUek"]
 CRand = ["https://s-media-cache-ak0.pinimg.com/originals/a8/4f/16/a84f16ac8532d5a87cb0b1c931d835b9.png" , "http://img1.reactor.cc/pics/post/Anime-Boku-no-Hero-Academia-Toga-Himiko-Monochrome-%28Anime%29-3790953.png" , "http://img0.reactor.cc/pics/post/Anime-Boku-no-Hero-Academia-Toga-Himiko-makumakukawaii-3614260.jpeg" , "http://img0.reactor.cc/pics/post/Kill-la-Kill-Anime-Matoi-Ryuuko-Kiryuuin-Satsuki-3817994.jpeg" , "http://img1.reactor.cc/pics/post/Anime-New-game%21-takimoto-hifumi-3582589.jpeg" , "http://img0.reactor.cc/pics/post/Anime-Anime-Art-Hibike%21-Euphonium-Tanaka-Asuka-3997562.jpeg"]
 cuteSay = ["Best Girl?" , "Hehe, almost as cute as you :3", "かわいいですね"]
