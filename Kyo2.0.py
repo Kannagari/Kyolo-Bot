@@ -76,6 +76,4 @@ async def cute(ctx):
     csRand = cuteSay[random.randrange(len(cuteSay))]
     response = requests.get(cuteRand , stream=True)
     await bot.send_file(ctx.message.channel, io.BytesIO(response.raw.read()) , filename='image.png' , content = csRand)
-        
-
-bot.run("MjkyMzAxNDMzMjI1NjA5MjE2.C62ChA.Q_Ut84YXHTTsVjos1RZsO_c3EK8")
+       
